@@ -1,4 +1,4 @@
-# Nexon/Vivox Blocklist
+# Nexon/Vivox Blocklist (für The First Descendant)
 
 Diese Liste blockiert diverse Tracking- und Telemetrie-Endpunkte von **Nexon**, **Vivox** und zugehörigen Diensten. Sie ist primär für Nutzer gedacht, die Nexon-Spiele nutzen, aber bestimmte Datenverbindungen unterbinden möchten.
 
