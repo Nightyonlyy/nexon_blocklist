@@ -48,3 +48,7 @@ Diese Liste blockiert Verbindungen, die ggf. für Online-Funktionen von Spielen 
 ## ✍️ Mitmachen
 
 Pull Requests für zusätzliche Domains oder Korrekturen sind willkommen!
+
+
+Quelle:
+https://gameindustry.eu/en/search/?suchbegriff=The+First+Descendant
